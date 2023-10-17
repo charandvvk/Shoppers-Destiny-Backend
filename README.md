@@ -6,12 +6,12 @@
 
 ## APIs
 
-### sections/
-### createAccount/
-### login/
-### profileDetails/
-### landingProducts/
-### listingProducts/
-### product/
-### cartDetails/
-### orderHistory/
+### /sections
+### /createAccount
+### /login
+### /profileDetails
+### /landingProducts
+### /listingProducts
+### /product
+### /cartDetails
+### /orderHistory
